@@ -1,5 +1,4 @@
 Neurochemistry-enriched dynamic causal models of magnetoencephalography, using magnetic resonance spectroscopy
 Jafarian, A., Hughes, L.E., Adams, N.E., Lanskey, J., Naessens, M., Rouse, M.A., Murley, A.G., Friston, K.J. and Rowe, J.B
-May 2023, 
-NeuroImage
+May 2023, NeuroImage
 (DOI: 10.1016/j.neuroimage.2023.120193)
